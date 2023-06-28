@@ -24,7 +24,15 @@ NearestCentroid
 2)  Preprocess the datasets, In my case, the datasets are already preprocessed so no need to preprocess the data.
 3)  Feature extraction
 4)  Hybrid Model
-5)  Final Output.
+5)  Final Output
+6)  Results 
+
+<img width="306" alt="Results" src="https://github.com/kumar-Himansh/M.Tech_Project_code/assets/98036087/6fc76473-05dc-476a-a293-7f594df2bc88">
+
+7) Results analysis using graph
+
+
+    ![himanshu](https://github.com/kumar-Himansh/M.Tech_Project_code/assets/98036087/9608ac06-75c9-435e-9daa-91db1d084c70)
 
 
 
