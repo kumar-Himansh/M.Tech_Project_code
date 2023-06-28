@@ -18,3 +18,13 @@ ExtraTreesClassifier
 KNeighborsClassifier
 tree
 NearestCentroid
+
+# Procedure of Implementation
+1)  Collecting datasets from different sources.
+2)  Preprocess the datasets, In my case, the datasets are already preprocessed so no need to preprocess the data.
+3)  Feature extraction
+4)  Hybrid Model
+5)  Final Output.
+
+
+
