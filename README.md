@@ -27,7 +27,7 @@ NearestCentroid
 5)  Final Output
 6)  Results 
 
-<img width="306" alt="Results" src="https://github.com/kumar-Himansh/M.Tech_Project_code/assets/98036087/6fc76473-05dc-476a-a293-7f594df2bc88">
+     <img width="306" alt="Results" src="https://github.com/kumar-Himansh/M.Tech_Project_code/assets/98036087/6fc76473-05dc-476a-a293-7f594df2bc88">
 
 7) Results analysis using graph
 
